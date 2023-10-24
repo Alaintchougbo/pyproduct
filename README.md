@@ -1,2 +1,2 @@
 # pyproduct
-Ce repository comporte comporte quelques 
+Ce repository comporte comporte quelques prduction avec le langage Python
